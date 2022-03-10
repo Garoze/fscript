@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd ./src
+
+node main.js > ../finalCode.js

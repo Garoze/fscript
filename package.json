@@ -1,0 +1,22 @@
+{
+  "name": "fscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "finalCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurHydr/fscript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurHydr/fscript/issues"
+  },
+  "homepage": "https://github.com/ArthurHydr/fscript#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
